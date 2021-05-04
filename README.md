@@ -2,7 +2,7 @@
 
 # execute for filter
 
-node index.js --filter=<parameter>
+node index.js --filter= \<parameter>
 
 # execute for count
 
