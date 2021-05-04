@@ -1,4 +1,4 @@
-# exercise filtering a local collection
+# exercise filtering a local collection and count
 
 # execute for filter
 
